@@ -12,3 +12,7 @@ AI-Engineering-Intermediate/Part1/vector_db/
 # Python cache
 __pycache__/
 **/__pycache__/
+
+# Jetbrains IDE
+.idea/
+
